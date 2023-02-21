@@ -12,5 +12,11 @@
 #### 4. Top 3 crucial metrics one needs to maintain to become a Super Host
 #### 5. comments of reviewers vary for listings of Super Hosts vs Other Hosts
 #### 6. Trends between Local Hosts or Hosts residing in other locations
-# Tech Stack Used
-https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+## Tech Stack Used
+- Microsoft SQL
+- MS-Excel
+- MS-Powerpoint
+## DATA OVERVIEW
+![image](https://user-images.githubusercontent.com/111456435/220389003-b77ce43f-6662-4123-8c5c-f024ccf40966.png)
+
+
